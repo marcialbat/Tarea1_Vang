@@ -1,0 +1,9 @@
+{
+  "name": "Tarea1_Vang",
+  "version": "1.0.0",
+  "description": "Homework React 1",
+  "main": "index.js",
+  "repository": "https://github.com/marcialbat/Tarea1_Vang.git",
+  "author": "marcialbat",
+  "license": "MIT"
+}
