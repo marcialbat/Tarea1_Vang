@@ -1,9 +1,16 @@
 {
-  "name": "Tarea1_Vang",
-  "version": "1.0.0",
-  "description": "Homework React 1",
-  "main": "index.js",
-  "repository": "https://github.com/marcialbat/Tarea1_Vang.git",
-  "author": "marcialbat",
-  "license": "MIT"
+  "name": "react-complete-guide",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
